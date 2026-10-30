@@ -23,7 +23,9 @@ pipeline {
             
               
                     echo "Build step completed successfully."
+
                     echo "Build step completed SUCCESSFULLY "
+ main
 
                     
                 '''
@@ -45,6 +47,10 @@ pipeline {
                     sleep 30
 
                     echo "Test step completed successfully"
+                    echo "test step compşeted successfully"
+                    echo "test step ..."
+
+
                 '''
             }
         }
