@@ -23,7 +23,7 @@ pipeline {
             
               
                     echo "Build step completed successfully."
-                    echo "Build step completed"
+                    echo "Build step completed SUCCESSFULLY "
 
                     
                 '''
