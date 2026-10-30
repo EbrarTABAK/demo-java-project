@@ -23,9 +23,9 @@ pipeline {
             
               
                     echo "Build step completed successfully."
-                    echo "Build step completed"
+                    echo "Build step completed one number "
                     echo "build step .... "
-                    
+
 
                     
                 '''
