@@ -44,8 +44,9 @@ pipeline {
                     nohup java -jar demo-0.0.1-SNAPSHOT-${BUILD_NUMBER}.jar &
                     sleep 30
 
-                    echo "test step completed SUCCESSFULLY is together on the number  "
-                     
+ ebrar-dev
+                    echo "test step completed SUCCESSFULLY is the list "
+
 
 
 
