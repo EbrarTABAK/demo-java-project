@@ -47,10 +47,7 @@ pipeline {
                     sleep 30
 
  ebrar-dev
-                    echo "test step completed SUCCESSFULLY is the list "
-
-
-
+                    echo "test number is in the comment step"
 
                 '''
             }
