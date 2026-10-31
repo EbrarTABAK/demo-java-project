@@ -46,8 +46,9 @@ pipeline {
                     nohup java -jar demo-0.0.1-SNAPSHOT-${BUILD_NUMBER}.jar &
                     sleep 30
 
- ebrar-dev
+
                     echo "test number is in the comment step"
+ main
 
                 '''
             }
