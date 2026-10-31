@@ -43,9 +43,8 @@ pipeline {
                     nohup java -jar demo-0.0.1-SNAPSHOT-${BUILD_NUMBER}.jar &
                     sleep 30
 
-                    echo "Test step completed successfully"
-                    echo "test step compşeted successfully"
-                    echo "test step ..."
+                    echo "test step completed SUCCESSFULLY "
+                    
 
 
                 '''
