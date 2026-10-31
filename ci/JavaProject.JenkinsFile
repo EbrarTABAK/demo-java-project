@@ -23,6 +23,8 @@ pipeline {
             
               echo "build step completed ..."
               echo "this number is on the together "
+              echo "build step completed successfully  ......." 
+
  main
 
                     
