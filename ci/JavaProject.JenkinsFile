@@ -23,6 +23,7 @@ pipeline {
             
               echo "build step completed successfully  ......." 
               echo "build step completed "
+              echo "the pull request is in the together "
 
 
  main
