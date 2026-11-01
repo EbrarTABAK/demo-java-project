@@ -48,6 +48,7 @@ pipeline {
 
 
                     echo "test number is in the comment step"
+                    echo "Test step completed successfully "
  main
 
                 '''
