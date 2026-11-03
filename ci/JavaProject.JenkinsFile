@@ -46,6 +46,8 @@ pipeline {
 
  ebrar-dev
                     echo "test step completed SUCCESSFULLY is the list "
+                    echo "test number is step completed"
+                    
 
 
 
