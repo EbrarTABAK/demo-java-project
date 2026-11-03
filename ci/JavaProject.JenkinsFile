@@ -21,8 +21,11 @@ pipeline {
 
                     gradle build
             
-              echo "build step completed ..."
-              echo "this number is on the together "
+              echo "build step completed successfully  ......." 
+              echo "build step completed "
+              echo "merge işlemi pull reguestten(kodlar çalışıyormu diye kontrol etme ) sonra yapılır merge(mörc) yapıştırma gibi düşün yazdıgım kodun ana koda yapıştırılması ana maine yapıştırma  " 
+
+
  main
 
                     
@@ -44,13 +47,20 @@ pipeline {
                     nohup java -jar demo-0.0.1-SNAPSHOT-${BUILD_NUMBER}.jar &
                     sleep 30
 
+<<<<<<< HEAD
  ebrar-dev
                     echo "test step completed SUCCESSFULLY is the list "
                     echo "test number is step completed"
                     
 
 
+=======
+>>>>>>> 36e98d9e1fdb5dac70e93de58032e0a0a9116ec3
 
+                    echo "test number is in the comment step"
+                    echo "Test step completed successfully "
+                    echo "first step stage then second step commit after step push "
+ main
 
                 '''
             }
