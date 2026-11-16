@@ -44,6 +44,7 @@ pipeline {
 
                     echo "Test step completed successfully"
                     echo "first step completed "
+                    echo "second step completed succesfully" 
                 '''
             }
         }
