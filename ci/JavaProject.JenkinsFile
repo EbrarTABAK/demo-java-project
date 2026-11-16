@@ -21,7 +21,7 @@ pipeline {
 
                     gradle build
                     echo "build step completed "
-                    
+
 
                     echo "Build step completed successfully. Next step is Test ...."
                 '''
@@ -43,6 +43,7 @@ pipeline {
                     sleep 30
 
                     echo "Test step completed successfully"
+                    echo "first step completed "
                 '''
             }
         }
