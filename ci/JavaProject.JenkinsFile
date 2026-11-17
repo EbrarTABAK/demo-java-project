@@ -43,8 +43,7 @@ pipeline {
                     sleep 30
 
                     echo "Test step completed successfully"
-                    echo "first step completed "
-                    echo "second step completed succesfully" 
+                    echo "first step completed succesfully" 
                 '''
             }
         }
